@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "bbe-beta",
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-10",
+          "title": "Foundation",
+          "description": "The beginning.",
+          "changes": [
+            "- The Foundation."
+          ],
+          "downloadUrl": "https://drive.google.com/file/d/15Al-UEb98nskjoUknOHPw7V77FR7rARk/view?usp=sharing",
+          "executable": "Bound By Earth/Farming Simulator.exe",
+          "size": "300 MB",
+          "sha256": "3ad13f66dd0db7a9b0f44088ab226f5858f1d53bcf626d7835a2dd0e869209aa"
+        }
+      ],
+      "name": "Bound by Earth (Beta)",
+      "genre": "Simulation / Tycoon",
+      "description": "A farming game about a farmers life in the field. Grow, Sell, and Build.",
+      "monogram": "B"
+    }
+  ]
+}

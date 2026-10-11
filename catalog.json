@@ -5,6 +5,25 @@
       "id": "bbe-beta",
       "releases": [
         {
+          "version": "2.0.0",
+          "date": "2026-10-11",
+          "title": "New Winds",
+          "description": "A massive update including graphics, gameplay, and functionality overhauls.",
+          "changes": [
+            "A new URP Graphics Engine with original lighting shaders instead of toonish buggy ones.",
+            "A day / night system with tuned lighting and graphics has been added.",
+            "Contracts via a Contract Board in the middle of the map paying more for tasks that are more specific.",
+            "Weapon and Shooting functionality has been added toward experimental animals.",
+            "The settings screen is now centered and aligned.",
+            "The player transitions to a stop instead of snapping when opening menus.",
+            "IL2CCP Source Code protection against reverse engineering has been implemented."
+          ],
+          "downloadUrl": "https://drive.google.com/file/d/1UVSLi15sWH5tFC87-9-Oyn9ZBaVmnSqM/view?usp=sharing",
+          "executable": "Bound By Earth/Farming Simulator.exe",
+          "size": "520MB",
+          "sha256": "26066a31554cf8162637ba15f0023993d14f24a97a26eff2375ddd4c2081554a"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-10-10",
           "title": "Foundation",
@@ -18,7 +37,7 @@
           "sha256": "3ad13f66dd0db7a9b0f44088ab226f5858f1d53bcf626d7835a2dd0e869209aa"
         }
       ],
-      "name": "Bound by Earth (Beta)",
+      "name": "Bound by Earth",
       "genre": "Simulation / Tycoon",
       "description": "A farming game about a farmers life in the field. Grow, Sell, and Build.",
       "monogram": "B"

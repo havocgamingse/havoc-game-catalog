@@ -5,6 +5,23 @@
       "id": "bbe-beta",
       "releases": [
         {
+          "version": "2.0.1",
+          "date": "2026-10-11",
+          "title": "Puff of Air",
+          "description": "Patches.",
+          "changes": [
+            "Fixed issue where time is not synced between players.",
+            "Fixed issue where players can fall through the map forever.",
+            "Fixed issue where animals behave weirdly and isolated per player.",
+            "Fixed issue where the custom roads where glitchy and blurry, as well as having divides.",
+            "Fixed issue where a player could access their mailbox from another players."
+          ],
+          "downloadUrl": "https://drive.google.com/file/d/1RXsOvPOQhnLmjDC_0IqW0bKZImpA7dPt/view?usp=sharing",
+          "executable": "Bound By Earth/Farming Simulator.exe",
+          "size": "525MB",
+          "sha256": "003fabca40f6608583cf427f808637d5aa9b460a03f91104d99c88da086f21e7"
+        },
+        {
           "version": "2.0.0",
           "date": "2026-10-11",
           "title": "New Winds",
@@ -37,7 +54,7 @@
           "sha256": "3ad13f66dd0db7a9b0f44088ab226f5858f1d53bcf626d7835a2dd0e869209aa"
         }
       ],
-      "name": "Bound by Earth",
+      "name": "Bound by Earth (Beta)",
       "genre": "Simulation / Tycoon",
       "description": "A farming game about a farmers life in the field. Grow, Sell, and Build.",
       "monogram": "B"

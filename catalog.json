@@ -14,7 +14,7 @@
             "Fixed issue where players can fall through the map forever.",
             "Fixed issue where animals behave weirdly and isolated per player.",
             "Fixed issue where the custom roads where glitchy and blurry, as well as having divides.",
-            "Fixed issue where a player could access their mailbox from another players."
+            "Fixed issue where a player could access their mailbox from another player's."
           ],
           "downloadUrl": "https://drive.google.com/file/d/1RXsOvPOQhnLmjDC_0IqW0bKZImpA7dPt/view?usp=sharing",
           "executable": "Bound By Earth/Farming Simulator.exe",

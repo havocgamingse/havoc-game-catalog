@@ -5,6 +5,23 @@
       "id": "bbe-beta",
       "releases": [
         {
+          "version": "2.1.0",
+          "date": "2026-10-15",
+          "title": "Explosions in a barrel",
+          "description": "A functional update adding new functionalities and patching previous ones, as well as graphics improvements.",
+          "changes": [
+            "Fixed sprinkler issues.",
+            "Fixed so light poles actually have lights that glow.",
+            "Added a health system and a temporary ragdoll effect upon elimination.",
+            "Fixed rotation of character when holding gun.",
+            "Added post-processing and further graphics updates."
+          ],
+          "downloadUrl": "https://drive.google.com/file/d/1-CQW4FEKpXqX7h04ZLPpsVfc5EzbtP1v/view?usp=sharing",
+          "executable": "Bound By Earth/Farming Simulator.exe",
+          "size": "525MB",
+          "sha256": "6ade55dcac1abe32972691f5761f60b08bb9dcf2df89ff78c7824b56e672f9f3"
+        },
+        {
           "version": "2.0.1",
           "date": "2026-10-11",
           "title": "Puff of Air",

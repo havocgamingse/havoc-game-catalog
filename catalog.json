@@ -5,6 +5,30 @@
       "id": "bbe-beta",
       "releases": [
         {
+          "version": "2.2.0",
+          "date": "2026-10-17",
+          "title": "Through Space and Time",
+          "description": "A update overhauling various parts of the game to ensure smooth gameplay, new functions, and better capabilities.",
+          "changes": [
+            "Added new skins.",
+            "Added a temporary in-game store.",
+            "Fixed health and time glitches.",
+            "Refurbed UI.",
+            "Added ability to sleep and skip to day.",
+            "Crop markers appear the same at day and night.",
+            "Sprinklers rotate toward the rotation the water is spraying.",
+            "Everyone in session follows hosts clock.",
+            "The clock is saved between sessions.",
+            "Fixed better gunshot sound.",
+            "Fixed clouds that appear and dissapear smoothly, behave like real clouds.",
+            "Fixed gunshot surface effects to match surface color accurately."
+          ],
+          "downloadUrl": "https://drive.google.com/file/d/1_eH2q-yYLzHoZRwaoA3YQ9sAAcz1YZ3K/view?usp=sharing",
+          "executable": "Bound By Earth/Farming Simulator.exe",
+          "size": "540MB",
+          "sha256": "366c93352a87c94554d2d4f81a7ca45094d98622dd0dbf174c1b9bf328137038"
+        },
+        {
           "version": "2.1.0",
           "date": "2026-10-15",
           "title": "Explosions in a barrel",
